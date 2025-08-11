@@ -1,2 +1,2 @@
 # Project-Z
-A personal Game That is currently Under development
+A personal Game That is currently Under development. This game will be a Role playing game (rpg) rogue like with progerssive harder levels with the end goal of making it to washington dc. This game will have a level system with different stat blocks, a heal and damage system, a buff/ debuff system, a enemy system, and other mechanices to make this game fun. This game is only coded by yours truley and is still under development as of this moment
